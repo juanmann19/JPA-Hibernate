@@ -27,6 +27,11 @@ public class Producto {
 	
 	
 	
+	
+	
+	public Producto() {
+
+	}
 	public Producto(String string, String string2, BigDecimal bigDecimal, Categoria celulares) {
 		// TODO Auto-generated constructor stub
 	}
